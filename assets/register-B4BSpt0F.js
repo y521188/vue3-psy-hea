@@ -1,0 +1,1 @@
+import{L as e,m as t,t as n}from"./_plugin-vue_export-helper-CdzLYgD7.js";var r={},i={class:`register-layout`};function a(n,r){return e(),t(`div`,i,` register `)}var o=n(r,[[`render`,a]]);export{o as default};
